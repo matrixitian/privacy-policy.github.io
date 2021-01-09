@@ -1,5 +1,5 @@
 ## Privacy Policy for Mineworld: Dig, Explore & Relax  
-At Mineworld Privacy Policy, accessible from https://github.com/tomriddIe/privacy-policy.github.io/, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Mineworld Privacy Policy and how we use it. If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us at holidayexplanation@gmail.com.
+At Mineworld Privacy Policy, accessible from https://github.com/matrixitian/privacy-policy.github.io/, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Mineworld Privacy Policy and how we use it. If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us at holidayexplanation@gmail.com.
 
 **Cookies**  
 Mineworld: Dig, Explore & Relax does not directly use any cookies, although cookies may be used by our advertising partner Google AdMob to serve users with better ads. For more general information on cookies, please read "What Are Cookies" from Cookie Consent.
