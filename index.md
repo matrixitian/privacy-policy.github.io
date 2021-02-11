@@ -2,7 +2,7 @@
 At Revo Privacy Policy, accessible from https://github.com/matrixitian/privacy-policy.github.io/, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Revo Privacy Policy and how we use it. If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us at holidayexplanation@gmail.com.
 
 **Cookies**  
-Revo: Dig, Explore & Relax does not directly use any cookies, although cookies may be used by our advertising partner Google AdMob to serve users with better ads. For more general information on cookies, please read "What Are Cookies" from Cookie Consent.
+Revo does not directly use any cookies, although cookies may be used by our advertising partner Google AdMob to serve users with better ads. For more general information on cookies, please read "What Are Cookies" from Cookie Consent.
 
 **Our Advertising Partners**  
 Some of advertisers on our site may use cookies and web beacons. Our advertising partners are listed below. Each of our advertising partners has their own Privacy Policy for their policies on user data. For easier access, we hyperlinked to their Privacy Policies below.
